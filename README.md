@@ -39,7 +39,7 @@ If opened a Browser and the image is showed, display the Browser.
 程序编辑开始于2016.01.20, 结束于2016.01.30。
 
 
-＃ 运行
+# 运行
 
 Windows下：
 双击 PictureViewer/PictureViewer/bin/PictureViewer.exe即可运行。
@@ -50,7 +50,7 @@ Mac下：
 在terminal中输入命令：$ mono ./PictureViewer.exe
 
 
-＃ 使用
+# 使用
 
 File：
 包含打开文件，打开文件夹，保存和保存为命令。
