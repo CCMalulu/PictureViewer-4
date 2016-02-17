@@ -1,9 +1,9 @@
-# PictureViewer
+# PictureViewer 
 A executable program of display image file or image thumbnail in select folder
 Writing started 2016.01.20, and finished 2016.01.30
 
 
-# Running #
+# Running
 
 Windows:
 Double click PictureViewer/PictureViewer/bin/PictureViewer.exe
@@ -14,7 +14,7 @@ Mono URL: http://www.mono-project.com/download/)
 Command in Terminal shell: $ mono ./PictureViewer.exe
 
 
-# Using #
+# Using
 
 File:
 Included command: Open a file, open a folder, Save and Save as.
@@ -34,12 +34,12 @@ If opened a Browser and the image is showed, display the Browser.
 
 
 
-# 图片浏览 ＃
+# 图片浏览
 用于显示图片或显示文件夹中图片缩览图。
 程序编辑开始于2016.01.20, 结束于2016.01.30。
 
 
-＃ 运行 ＃
+＃ 运行
 
 Windows下：
 双击 PictureViewer/PictureViewer/bin/PictureViewer.exe即可运行。
@@ -50,7 +50,7 @@ Mac下：
 在terminal中输入命令：$ mono ./PictureViewer.exe
 
 
-＃ 使用 ＃
+＃ 使用
 
 File：
 包含打开文件，打开文件夹，保存和保存为命令。
